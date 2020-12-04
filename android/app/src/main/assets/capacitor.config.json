@@ -9,6 +9,5 @@
       "launchShowDuration": 0
     }
   },
-  "cordova": {},
-  "linuxAndroidStudioPath": "/snap/android-studio/98/android-studio/bin/studio.sh"
+  "cordova": {}
 }
